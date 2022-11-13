@@ -1,6 +1,6 @@
 //let _age = new WeakMap();
 
-class employee{
+class Employee{
     constructor(a,name,yearofjoining){
         
         //  let _age=Symbol();
