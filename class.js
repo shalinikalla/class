@@ -16,7 +16,7 @@ class Employee{
     
     //getter
     // get getName(){
-    //     return "employee name:"+this.name;
+    //     return "Employee name:"+this.name;
     // }
 
     // set name(newName) {
@@ -42,7 +42,7 @@ class Employee{
 // let employee1=new employee('paul max');
 // console.log(employee)
 
-// class admin extends employee{
+// class Admin extends Employee{
 //     constructor(name,yearofjoining,company){
 //         super(name,yearofjoining);
 //         this.company=company;
@@ -50,19 +50,19 @@ class Employee{
 // };
 
 
-// const employee1 = new employee("Ram",2017,"amazon");
-// const admin2 = new admin("Ravi",2018,);
+// const Employee1 = new Employee("Ram",2017,"amazon");
+// const Admin2 = new Admin("Ravi",2018,);
 
-//console.log(employee1)
-//console.log("years of service:"+employee1.service() + " yearscompleted.");
+//console.log(Employee1)
+//console.log("years of service:"+Employee1.service() + " yearscompleted.");
 
-//console.log(employee1.getName); //getter
+//console.log(Employee1.getName); //getter
 
 
-//console.log(admin1);
-//console.log(admin2.service()+ " years")
+//console.log(Admin1);
+//console.log(Admin2.service()+ " years")
 
-//console.log(employee.hello(employee1))  //static
+//console.log(Employee.hello(Employee1))  //static
 
 
 
